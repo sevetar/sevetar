@@ -1,9 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&text=秋招中&fontSize=32&fontColor=00aaff&color=1b1b1b&stroke=333333&strokeWidth=1" width="100%" />
+<pre>
+ /ᐠ｡ꞈ｡ᐟ\   /ᐠ｡ꞈ｡ᐟ\   /ᐠ｡ꞈ｡ᐟ\   /ᐠ｡ꞈ｡ᐟ\   /ᐠ｡ꞈ｡ᐟ\   /ᐠ｡ꞈ｡ᐟ\
+(  =ω=  ) (  =ω=  ) (  =ω=  ) (  =ω=  ) (  =ω=  ) (  =ω=  )
+ /      \   /      \   /      \   /      \   /      \   /      \
 
-<br>
+ /ᐠ˵- ⩊ -˵マ   /ᐠ˵- ⩊ -˵マ   /ᐠ˵- ⩊ -˵マ   /ᐠ˵- ⩊ -˵マ   /ᐠ˵- ⩊ -˵マ
+(  ฅ^•ﻌ•^ฅ ) (  ฅ^•ﻌ•^ฅ ) (  ฅ^•ﻌ•^ฅ ) (  ฅ^•ﻌ•^ฅ ) (  ฅ^•ﻌ•^ฅ )
+ /        \    /        \    /        \    /        \    /        \
 
-`general`　`秋招中`　`2027`　`open_to_work`
+ /ᐠ｡▿｡ᐟ\   /ᐠ｡▿｡ᐟ\   /ᐠ｡▿｡ᐟ\   /ᐠ｡▿｡ᐟ\   /ᐠ｡▿｡ᐟ\   /ᐠ｡▿｡ᐟ\
+(   >ω<   ) (   >ω<   ) (   >ω<   ) (   >ω<   ) (   >ω<   ) (   >ω<   )
+ /        \   /        \   /        \   /        \   /        \   /        \
+</pre>
+
+# NEKOGIRLS BOARD
+
+`Main`　`Posts`　`Comments`　`Tags`　`Wiki`　`Help`
+
+---
+
+<table>
+<tr>
+<td align="left" valign="top" width="28%">
+
+### Search
+
+```text
+[ 秋招中              ]
+```
+
+### Tags
+
+* `catgirl`
+* `general`
+* `2027`
+* `open_to_work`
+
+### Options
+
+* `safe mode`
+* `profile`
+* `status`
+
+</td>
+<td align="center" valign="middle" width="72%">
+
+<br><br>
+
+# 秋招中
+
+`general` · `2027` · `open_to_work`
+
+<br><br>
+
+<sub>/ᐠ｡ꞈ｡ᐟ\ /ᐠ˵- ⩊ -˵マ /ᐠ｡▿｡ᐟ\ /ᐠ｡ꞈ｡ᐟ\ /ᐠ˵- ⩊ -˵マ</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+`random`　`artist`　`character`　`copyright`　`meta`　`general`
 
 </div>
