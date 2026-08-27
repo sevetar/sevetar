@@ -1,67 +1,21 @@
-<div align="center">
+ <img
+    width="320"
+    src="https://readme-typing-svg.demolab.com?
+    font=Cascadia+Code&weight=700&size=22&color=0078D7&vCenter=true&pause=100000&width=320&height=45&lines=Hi%2C+I'm+sev
+    etar"
+    alt="Hi, I'm sevetar"
+  />
 
-<pre>
- /ᐠ｡ꞈ｡ᐟ\   /ᐠ｡ꞈ｡ᐟ\   /ᐠ｡ꞈ｡ᐟ\   /ᐠ｡ꞈ｡ᐟ\   /ᐠ｡ꞈ｡ᐟ\   /ᐠ｡ꞈ｡ᐟ\
-(  =ω=  ) (  =ω=  ) (  =ω=  ) (  =ω=  ) (  =ω=  ) (  =ω=  )
- /      \   /      \   /      \   /      \   /      \   /      \
+  <img
+    align="right"
+    width="520"
+    src="https://count.getloli.com/get/@sevetar1225?
+    theme=rule34&padding=10&offset=0&align=center&scale=1.0&pixelated=1&darkmode=auto"
+    alt="sevetar"
+  />
 
- /ᐠ˵- ⩊ -˵マ   /ᐠ˵- ⩊ -˵マ   /ᐠ˵- ⩊ -˵マ   /ᐠ˵- ⩊ -˵マ   /ᐠ˵- ⩊ -˵マ
-(  ฅ^•ﻌ•^ฅ ) (  ฅ^•ﻌ•^ฅ ) (  ฅ^•ﻌ•^ฅ ) (  ฅ^•ﻌ•^ฅ ) (  ฅ^•ﻌ•^ฅ )
- /        \    /        \    /        \    /        \    /        \
+  <p>
+    &nbsp; 秋招中...
+  </p>
 
- /ᐠ｡▿｡ᐟ\   /ᐠ｡▿｡ᐟ\   /ᐠ｡▿｡ᐟ\   /ᐠ｡▿｡ᐟ\   /ᐠ｡▿｡ᐟ\   /ᐠ｡▿｡ᐟ\
-(   >ω<   ) (   >ω<   ) (   >ω<   ) (   >ω<   ) (   >ω<   ) (   >ω<   )
- /        \   /        \   /        \   /        \   /        \   /        \
-</pre>
-
-# NEKOGIRLS BOARD
-
-`Main`　`Posts`　`Comments`　`Tags`　`Wiki`　`Help`
-
----
-
-<table>
-<tr>
-<td align="left" valign="top" width="28%">
-
-### Search
-
-```text
-[ 秋招中              ]
-```
-
-### Tags
-
-* `catgirl`
-* `general`
-* `2027`
-* `open_to_work`
-
-### Options
-
-* `safe mode`
-* `profile`
-* `status`
-
-</td>
-<td align="center" valign="middle" width="72%">
-
-<br><br>
-
-# 秋招中
-
-`general` · `2027` · `open_to_work`
-
-<br><br>
-
-<sub>/ᐠ｡ꞈ｡ᐟ\ /ᐠ˵- ⩊ -˵マ /ᐠ｡▿｡ᐟ\ /ᐠ｡ꞈ｡ᐟ\ /ᐠ˵- ⩊ -˵マ</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-`random`　`artist`　`character`　`copyright`　`meta`　`general`
-
-</div>
+  <br clear="both"/>
