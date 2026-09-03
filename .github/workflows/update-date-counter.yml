@@ -1,0 +1,44 @@
+name: Update date counter
+
+on:
+  schedule:
+    # 00:00 every day in Asia/Shanghai (UTC+8)
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update date digits
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          date_digits="$(TZ=Asia/Shanghai date +%Y%m%d)"
+          counter_html=""
+          for ((i = 0; i < ${#date_digits}; i++)); do
+            digit="${date_digits:i:1}"
+            counter_html+="<img width=\"45\" src=\"https://raw.githubusercontent.com/journey-ad/Moe-Counter/master/assets/theme/rule34/${digit}.gif\" alt=\"${digit}\" />"
+          done
+
+          awk -v replacement="$counter_html" \
+            '/^<img width="45" src="https:\/\/raw\.githubusercontent\.com\/journey-ad\/Moe-Counter\/master\/assets\/theme\/rule34\// { print replacement; next } { print }' \
+            README.md > README.md.tmp
+          mv README.md.tmp README.md
+
+      - name: Commit and push if changed
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "Update daily date counter"
+          git push
